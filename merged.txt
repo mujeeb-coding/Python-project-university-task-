@@ -1,0 +1,5 @@
+Hello World
+This is file 1.
+Python is fun!
+File 2 here.
+Learning File Handling in Python.
